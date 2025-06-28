@@ -10,7 +10,8 @@ Mojang的优化蠢到家了，快来用用我做的优化整合包！
 ## Chinese (Simplified)
 
 **微软和Mojang那脑子真是抽了**
-原生优化太差了，想要流畅只能用模组优化
+
+原生优化**太差了**，想要**流畅**只能**用模组优化**
 
 此版本包由几个**整合包**构成
 
@@ -28,7 +29,7 @@ Mojang的优化蠢到家了，快来用用我做的优化整合包！
 
 **Microsoft and Mojang are really crazy**
 
-The native optimization is too poor. If you want it to be smooth, you can only use mod optimization
+The native optimization is **too poor**. If you want it to be ****smooth, you can **only** use mod optimization
 
 This version package consists of several **integration packages**
 
