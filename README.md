@@ -29,7 +29,7 @@ Mojang的优化蠢到家了，快来用用我做的优化整合包！
 
 **Microsoft and Mojang are really crazy**
 
-The native optimization is **too poor**. If you want it to be ****smooth, you can **only** use mod optimization
+The native optimization is **too poor**. If you want it to be **smooth**, you can **only** use mod optimization
 
 This version package consists of several **integration packages**
 
