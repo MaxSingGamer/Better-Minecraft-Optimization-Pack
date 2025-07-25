@@ -1,5 +1,5 @@
 # Better-Minecraft-Optimization-Pack
-# 更好的我的世界版本整合包
+# 更好的我的世界优化整合包
 If your Minecraft is too slow, you can try this modpack!
 
 Mojang的优化蠢到家了，快来用用我做的优化整合包！
